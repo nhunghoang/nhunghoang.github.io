@@ -1916,6 +1916,10 @@ input, select, textarea {
 		white-space: nowrap;
 	}
 
+	.button.leftmargin {
+		margin-left: 3em;
+	}
+
 		input[type="submit"]:after,
 		input[type="reset"]:after,
 		input[type="button"]:after,
